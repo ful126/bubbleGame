@@ -44,6 +44,3 @@ Certainly! Here are some key points you can add to your resume to highlight your
 
 19. **Launch and Maintenance:** Successfully launched the bubble game website and provided ongoing maintenance and updates as needed.
 
-20. **Achievements:** Mention any notable achievements or milestones, such as achieving a certain number of users or positive reviews.
-
-These points will help showcase your skills and experience in web development, highlighting your ability to create an interactive and engaging game using HTML, CSS, and JavaScript.
