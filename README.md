@@ -2,6 +2,6 @@
 
 [PLAY HERE!](https://animezkishan.github.io/Bubble-Game/)
 
-Reference - [Sheryians Coding School](https://www.youtube.com/@thesheryianscodingschool/)
+
 
 
